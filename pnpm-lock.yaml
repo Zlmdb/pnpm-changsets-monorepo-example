@@ -20,7 +20,7 @@ importers:
   packages/b:
     dependencies:
       '@zlmdb/monorepo-pkg-a':
-        specifier: ^0.0.0
+        specifier: ^1.0.0
         version: link:../a
     devDependencies:
       typescript:
