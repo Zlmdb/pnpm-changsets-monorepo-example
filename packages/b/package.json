@@ -1,12 +1,12 @@
 {
   "name": "@zlmdb/monorepo-pkg-b",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
   "dependencies": {
-    "@zlmdb/monorepo-pkg-a": "^3.0.0"
+    "@zlmdb/monorepo-pkg-a": "^4.0.0"
   },
   "devDependencies": {
     "typescript": "^4.9.4"

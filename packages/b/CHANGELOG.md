@@ -1,5 +1,12 @@
 # @zlmdb/monorepo-pkg-b
 
+## 2.0.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @zlmdb/monorepo-pkg-a@4.0.0
+
 ## 2.0.1
 
 ### Patch Changes
